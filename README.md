@@ -1,3 +1,19 @@
+| Emotion   | Job in content                       |
+| --------- | ------------------------------------ |
+| Curiosity | **Keep watching**                    |
+| Surprise  | **Wake attention**                   |
+| Laughter  | **Release tension + create memory**  |
+| Fear      | **Increase stakes**                  |
+| Desire    | **Create movement toward something** |
+| Love      | **Create connection**                |
+| Pride     | **Create identity**                  |
+| Anger     | **Create energy**                    |
+| Wonder    | **Expand possibility**               |
+| Hope      | **Create future orientation**        |
+| Empathy   | **Make people feel understood**      |
+| Relief    | **Release tension**                  |
+
+
 # Content_creator
 create content like tanmay bhat
 
